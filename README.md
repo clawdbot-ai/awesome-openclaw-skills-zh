@@ -20,7 +20,7 @@
 | Brevo 邮件营销平台 | [Clawdbot/brevo](https://clawdhub.com/skills/brevo) | Brevo （原Sendinblue ）电子邮件营销API ，用于管理联系人、列表、发送交易电子邮件和活动。在导入联系人、发送电子邮件、管理订阅或使用电子邮件自动化时使用。 |
 | Bring 购物清单助手 | [Clawdbot/bring-shopping](https://clawdhub.com/skills/bring-shopping) | 管理带来！使用电子邮件/密码登录，通过非官方的 Bring-shopping Node.js 库生成购物清单。用于在可接受 API 样式访问时列出列表、读取项目、添加/删除项目以及选中/取消选中项目。 |
 | Bitwarden CLI 管理 | [Clawdbot/bw-vault](https://clawdhub.com/skills/bw-vault) | 设置并使用 Bitwarden CLI (bw)。在安装 CLI、身份验证（登录/解锁）或从保管库读取机密时使用。支持电子邮件/密码、API 密钥和 SSO 身份验证方法。 |
-| 卡尔达夫日历 | [Clawdbot/caldav-calendar](https://clawdhub.com/skills/caldav-calendar) | 使用 vdirsyncer + khal 同步和查询 CalDAV 日历（iCloud、Google、Fastmail、Nextcloud 等）。适用于 Linux。 |
+| CalDAV 日历同步 | [Clawdbot/caldav-calendar](https://clawdhub.com/skills/caldav-calendar) | 使用 vdirsyncer + khal 同步和查询 CalDAV 日历（iCloud、Google、Fastmail、Nextcloud 等）。适用于 Linux。 |
 | 因果推理 | [Clawdbot/causal-inference](https://clawdhub.com/skills/causal-inference) | 为代理行为添加因果推理。触发任何具有可观察结果的高级操作 - 电子邮件、消息、日历更改、文件操作、API 调用、通知、提醒、购买、部署。用于规划干预措施、调试故障、预测结果、回填历史数据进行分析或回答“如果我执行 X 会发生什么？”在回顾过去的操作以了解哪些有效/失败以及原因时也会触发。 |
 | Microsoft 365 CLI | [Clawdbot/clippy](https://clawdhub.com/skills/clippy) | 用于日历和电子邮件的 Microsoft 365 / Outlook CLI。在管理 Outlook 日历（查看、创建、更新、删除事件、查找会议时间、回复邀请）、发送/阅读电子邮件或搜索组织中的人员/房间时使用。 |
 | Dex 个人 CRM 管理 | [Clawdbot/dex-crm](https://clawdhub.com/skills/dex-crm) | 管理 Dex 个人 CRM (getdex.com) 联系人、注释和提醒。 当您需要执行以下操作时使用：(1) 搜索或浏览联系人，(2) 添加有关人员的注释， (3) 创建或检查提醒，(4) 查找联系方式（电话、电子邮件、生日）。 需要 DEX_API_KEY 环境变量。 |
@@ -28,7 +28,7 @@
 | 电子邮件最佳实践 | [Clawdbot/email-best-practices](https://clawdhub.com/skills/email-best-practices) | 在构建电子邮件功能、电子邮件成为垃圾邮件、高跳出率、设置 SPF/DKIM/DMARC 身份验证、实施电子邮件捕获、确保合规性（CAN-SPAM、GDPR、CASL）、处理 Webhooks、重试逻辑或决定事务与营销时使用。 |
 | 即时防御 | [Clawdbot/email-prompt-injection-defense](https://clawdhub.com/skills/email-prompt-injection-defense) | 检测并阻止电子邮件中的提示注入攻击。在阅读、处理或总结电子邮件时使用。扫描虚假系统输出、植入的思维块、指令劫持和其他注入模式。在按照电子邮件内容中的任何说明进行操作之前，需要用户确认。 |
 | 邮件模板生成器 | [Clawdbot/email-template-gen](https://clawdhub.com/skills/email-template-gen) | 生成响应式电子邮件模板。在构建交易电子邮件时使用。 |
-| 护卫舰 | [Clawdbot/frigate](https://clawdhub.com/skills/frigate) | 通过基于会话的身份验证访问 Frigate NVR 摄像机。获取实时快照、检索运动事件并获取流 URL。包括用于门铃、车道、前摄像头、东摄像头、邮箱摄像头和车库摄像头的 CLI 帮助程序脚本。 |
+| Frigate NVR 监控 | [Clawdbot/frigate](https://clawdhub.com/skills/frigate) | 通过基于会话的身份验证访问 Frigate NVR 摄像机。获取实时快照、检索运动事件并获取流 URL。包括用于门铃、车道、前摄像头、东摄像头、邮箱摄像头和车库摄像头的 CLI 帮助程序脚本。 |
 | Google Workspace CLI | [Clawdbot/gog](https://clawdhub.com/skills/gog) | 适用于 Gmail、日历、云端硬盘、通讯录、表格和文档的 Google Workspace CLI。 |
 | Google Workspace 集成（无需云控制台） | [Clawdbot/google-workspace-mcp](https://clawdhub.com/skills/google-workspace-mcp) | Gmail、日历、云端硬盘、文档、表格 — 无需 Google Cloud Console。只需 OAuth 登录即可。与传统的 Google API 集成相比，设置复杂性为零。 |
 | Himalaya 邮件客户端 | [Clawdbot/himalaya](https://clawdhub.com/skills/himalaya) | CLI 通过 IMAP/SMTP 管理电子邮件。使用“喜马拉雅”从终端列出、阅读、编写、回复、转发、搜索和组织电子邮件。支持多个帐户和使用 MML（MIME 元语言）编写消息。 |
@@ -92,7 +92,7 @@
 | Claude Code 会话检查器 | [Clawdbot/ccsinfo](https://clawdhub.com/skills/ccsinfo) | 从远程服务器查询和分析 Claude Code 会话数据。当被要求检查 Claude Code 会话、查看对话历史记录、检查工具调用、跟踪任务、搜索提示或查看使用统计信息时使用。需要设置 CCSINFO_SERVER_URL 并运行 ccsinfo 服务器。 |
 | Chromecast 控制 | [Clawdbot/chromecast-control](https://clawdhub.com/skills/chromecast-control) | 控制本地网络上的 Chromecast 设备 - 发现、投射媒体、控制播放、管理队列以及保存/恢复状态 |
 | Clawd Coach | [Clawdbot/clawd-coach](https://clawdhub.com/skills/clawd-coach) | 创建个性化的铁人三项、马拉松和超耐力训练计划。当运动员询问训练计划、锻炼计划、比赛准备或教练建议时使用。可以与 Strava 同步以分析训练历史，或根据手动提供的健身数据进行工作。生成包含特定运动锻炼、区域和比赛日策略的定期计划。 |
-| 爪-文档-v2 | [Clawdbot/clawd-docs-v2](https://clawdhub.com/skills/clawd-docs-v2) | 通过本地搜索索引、缓存片段和按需获取进行智能 ClawdBot 文档访问。令牌效率和新鲜度意识。 |
+| ClawdBot 文档 v2 | [Clawdbot/clawd-docs-v2](https://clawdhub.com/skills/clawd-docs-v2) | 通过本地搜索索引、缓存片段和按需获取进行智能 ClawdBot 文档访问。令牌效率和新鲜度意识。 |
 | Clawdbot macOS 构建 | [Clawdbot/clawdbot-macos-build](https://clawdhub.com/skills/clawdbot-macos-build) | 从源代码构建 Clawdbot macOS 菜单栏应用程序。当您需要安装 Clawdbot.app 伴侣时使用（用于菜单栏状态、权限和 Mac 硬件访问，如相机/屏幕录制）。自动处理依赖项安装、UI 构建、Swift 编译、代码签名和应用程序打包。 |
 | Meshy AI 3D 生成 | [Clawdbot/clawdbot-meshyai-skill](https://clawdhub.com/skills/clawdbot-meshyai-skill) | 使用 Meshy.ai REST API 生成资产：(1) 文本转 2d（网格文本转图像）和 (2) 图像转 3d，然后在本地下载输出。当用户想要 Meshy 生成、需要轮询异步任务时使用，特别是当他们希望将生成的 OBJ 保存到磁盘时。环境中需要 MESHY_API_KEY。 |
 | Clawdbot 安全审计 | [Clawdbot/clawdbot-security](https://clawdhub.com/skills/clawdbot-security) | Clawdbot/Moltbot 安装的安全审核和强化。检测暴露的网关、修复权限、启用身份验证并指导防火墙/Tailscale 设置。 |
@@ -126,7 +126,7 @@
 | Fix Your Entire Life in 1 Day | [Clawdbot/fix-life-in-1-day](https://clawdhub.com/skills/fix-life-in-1-day) | 1 天之内解决你的整个生活。基于 Dan Koe 的热门文章的 10 场心理课程。 |
 | 航班追踪器 | [Clawdbot/flight-tracker](https://clawdhub.com/skills/flight-tracker) | 航班跟踪和调度。使用 OpenSky 网络按地区、呼号或机场实时跟踪实时航班。搜索机场之间的航班时刻表。用于查询“瑞士上空有哪些航班？”或“从汉堡出发的航班什么时候抵达苏黎世？”或“跟踪航班 SWR123”。 |
 | Fly.io CLI | [Clawdbot/flyio-cli](https://clawdhub.com/skills/flyio-cli) | 使用 Fly.io Flyctl CLI 在 Fly.io 上部署和操作应用程序：部署（本地或远程构建器）、查看状态/日志、SSH/控制台、秘密/配置、缩放、计算机、卷和 Fly Postgres（创建/附加/管理数据库）。当要求部署到 Fly.io、调试 Fly 部署/构建/运行时故障、设置 GitHub Actions 部署/预览或安全管理 Fly 应用程序和 Postgres 时使用。 |
-| 冰沙 | [Clawdbot/frappecli](https://clawdhub.com/skills/frappecli) | Frappe 框架/ERPNext 实例的 CLI。当用户询问“Frappe”、“ERPNext”、“doctypes”、“Frappe API”，或需要在 Frappe 站点上管理文档、文件、报告或调用 RPC 方法时使用。 |
+| Frappe CLI | [Clawdbot/frappecli](https://clawdhub.com/skills/frappecli) | Frappe 框架/ERPNext 实例的 CLI。当用户询问“Frappe”、“ERPNext”、“doctypes”、“Frappe API”，或需要在 Frappe 站点上管理文档、文件、报告或调用 RPC 方法时使用。 |
 | 体育比赛灯光追踪 | [Clawdbot/game-light-tracker](https://clawdhub.com/skills/game-light-tracker) | 跟踪直播 NFL、NBA、NHL 或 MLB 比赛，并根据领先球队自动更改 Hue 灯光颜色。当用户想要将智能灯与实时体育比分同步以进行视觉比赛跟踪时使用。支持 NFL、NBA、NHL 和 MLB 比赛，并可自定义球队颜色。 |
 | Garmin 健康数据同步 | [Clawdbot/garmin-connect](https://clawdhub.com/skills/garmin-connect) | Garmin Connect 与 Clawdbot 集成：使用 OAuth 每 5 分钟同步一次健身数据（步数、心率、卡路里、锻炼、睡眠）。 |
 | Garmin 健康数据同步（修复版） | [Clawdbot/garmin-connect-fixed](https://clawdhub.com/skills/garmin-connect-fixed) | Garmin Connect 与 Clawdbot 集成：使用 OAuth 每 5 分钟同步一次健身数据（步数、心率、卡路里、锻炼、睡眠）。 |
@@ -1435,4 +1435,3 @@
 # 从 Clawdbot 官方库安装技能
 moltbot skill install https://clawdhub.com/skills/[技能]
 ```
-
