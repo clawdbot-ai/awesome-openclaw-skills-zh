@@ -3,11 +3,8 @@
 > 所有技能已适配中文指令，可直接在 Moltbot 中调用（支持 Telegram/企业微信/本地客户端）。
 
 
-> 说明：README 由脚本按关键词自动分类生成；如需更精细的分类/中文示例，建议在翻译完成后再二次整理。
-
-
 ## 一、办公自动化 📊
-| 技能名称 | 官方技能链接 | 核心功能 |
+| 技能名称 | 官方链接 | 核心功能 |
 |-----------|------------|----------------------|
 | 1Password 密码管理 | [Clawdbot/1password](https://clawdhub.com/skills/1password) | 设置并使用 1Password CLI (op)。在安装 CLI、启用桌面应用程序集成、登录（单帐户或多帐户）或通过 op 读取/注入/运行机密时使用。 |
 | ABM 自动化外呼 | [Clawdbot/abm-outbound](https://clawdhub.com/skills/abm-outbound) | 多渠道 ABM 自动化，可将 LinkedIn URL 转变为协调一致的出站活动。抓取个人资料，利用 Apollo（电子邮件+电话）进行丰富，通过 Skip Trace 获取邮寄地址，然后通过 Scribeless 编排电子邮件序列、LinkedIn 触摸和手写信件。在拥挤的收件箱中脱颖而出的秘密武器。 |
@@ -219,7 +216,7 @@
 
 
 ## 二、系统工具 ⚙️
-| 技能名称 | 官方技能链接 | 核心功能（中文翻译） |
+| 技能名称 | 官方链接 | 核心功能 |
 |-----------|------------|----------------------|
 | 可访问性审计器 | [Clawdbot/a11y-auditor](https://clawdhub.com/skills/a11y-auditor) | 扫描 HTML 和 JSX 是否存在可访问性问题并获取修复建议。当您需要在 WCAG 违规投入生产之前捕获它们时使用。 |
 | Affiliatematic 联属营销 | [Clawdbot/affiliatematic](https://clawdhub.com/skills/affiliatematic) | 使用affiliatematic.com 将人工智能支持的亚马逊联属产品推荐集成到网站中。 当您需要执行以下操作时使用：(1) 将亚马逊联属营销小部件添加到网站，(2) 根据页面内容设置自动产品推荐，(3) 通过人工智能支持的产品匹配优化联属营销收入，(4) 配置联属营销自动化。 触发因素：亚马逊联属网络营销、联属网络营销、产品推荐、联属网络小部件、亚马逊联营公司集成、与亚马逊合作的网站货币化。 |
@@ -438,7 +435,7 @@
 
 
 ## 三、开发运维 🛠️
-| 技能名称 | 官方技能链接 | 核心功能（中文翻译） |
+| 技能名称 | 官方链接 | 核心功能 |
 |-----------|------------|----------------------|
 | GitHub Actions 生成器 | [Clawdbot/action-gen](https://clawdhub.com/skills/action-gen) | 从简单的英语生成 GitHub Actions 工作流程。设置 CI 时使用。 |
 | Actual Budget | [Clawdbot/actual-budget](https://clawdhub.com/skills/actual-budget) | 通过官方实际预算 Node.js API 查询和管理个人财务。用于预算查询、交易导入/导出、账户管理、分类、规则、计划以及与自托管实际预算实例的银行同步。 |
@@ -799,7 +796,7 @@
 
 
 ## 四、其他 🧩
-| 技能名称 | 官方技能链接 | 核心功能（中文翻译） |
+| 技能名称 | 官方链接 | 核心功能 |
 |-----------|------------|----------------------|
 | 0x DEX 聚合器 | [Clawdbot/0x-swap](https://clawdhub.com/skills/0x-swap) | 0x 协议 DEX 聚合器。在以太坊、Polygon、BSC 等 9 多个流动性来源中以最优惠的汇率交换代币。 |
 | 第二大脑知识库 | [Clawdbot/1](https://clawdhub.com/skills/1) | 由 Ensue 支持的个人知识库，用于捕获和检索理解。当用户想要保存知识、回忆他们所知道的内容、管理他们的工具箱或以过去的学习为基础时使用。触发“保存这个”、“记住”、“我知道什么”、“添加到工具箱”、“我的笔记”、“存储这个概念”。 |
