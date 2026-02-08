@@ -988,6 +988,7 @@
 | Cloudflare 生成器 | [Clawdbot/cloudflare-gen](https://clawdhub.com/skills/cloudflare-gen) | 生成 Cloudflare Workers 配置和代码。在边缘建造时使用。 |
 | 代码审查器 | [Clawdbot/code-reviewer](https://clawdhub.com/skills/code-reviewer) | 用于分阶段 git 更改的 AI 代码审查。当您在承诺之前需要第二双眼睛时使用。 |
 | 代码审查器（幽默版） | [Clawdbot/code-roaster](https://clawdhub.com/skills/code-roaster) | 以残酷的诚实和实际有用的反馈来测试你的代码。当用户想要进行有趣、野蛮的代码审查以捕获不良模式和命名犯罪时使用。 |
+| 代码整洁之道 | [jackjin1997/clean-code](https://github.com/jackjin1997/ClawForge/tree/main/skills/clean-code-zh) | 遵循 Robert C. Martin 的《代码整洁之道》原则，进行代码审查、重构和编写。涵盖命名、函数、注释和错误处理的最佳实践。 |
 | CodeConductor.ai | [Clawdbot/codeconductor](https://clawdhub.com/skills/codeconductor) | （无） |
 | Codex 账户切换器 | [Clawdbot/codex-account-switcher](https://clawdhub.com/skills/codex-account-switcher) | 管理多个 OpenAI Codex 帐户。捕获当前的登录令牌并立即在它们之间切换。 |
 | Codex 编排 | [Clawdbot/codex-orchestration](https://clawdhub.com/skills/codex-orchestration) | Codex 的通用编排。使用 update_plan 加上后台 PTY 终端来运行并行 Codex exec 工作程序。 |
