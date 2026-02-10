@@ -1,6 +1,6 @@
-# Awesome Moltbot Skills (中文官方库)
+# Awesome OpenClaw Skills (中文官方库)
 > 翻译自 [Clawdbot 官方技能库](https://clawdhub.com/skills)，持续同步更新。
-> 所有技能已适配中文指令，可直接在 Moltbot 中调用（支持 Telegram/企业微信/本地客户端）。
+> 所有技能已适配中文指令，可直接在 OpenClaw 中调用（支持 QQ/企业微信/飞书/钉钉/本地客户端）。
 
 ## 📑 目录
 
@@ -1467,9 +1467,9 @@
 
 
 ## 五、使用说明
-1. **加载技能**：在 Moltbot 中发送指令 `加载技能：[技能]`（如 `加载技能：邮件自动发送`），或通过命令行安装：
+1. **加载技能**：在 OpenClaw 中发送指令 `加载技能：[技能]`（如 `加载技能：邮件自动发送`），或通过命令行安装：
 
 ```bash
-# 从 Clawdbot 官方库安装技能
-moltbot skill install https://clawdhub.com/skills/[技能]
+# 从 OpenClaw 官方库安装技能
+openclaw skill install https://clawdhub.com/skills/[技能]
 ```
