@@ -194,6 +194,7 @@
 | Jungian Psychologist | [Clawdbot/jungian-psychologist](https://clawdhub.com/skills/jungian-psychologist) | 荣格分析心理学、深度心理学、影子工作、原型分析、梦境解读、积极想象、通过荣格镜头成瘾/恢复以及个性化过程方面的专家。 |
 | K8s 自动缩放 | [Clawdbot/k8-autoscaling](https://clawdhub.com/skills/k8-autoscaling) | 使用 HPA、VPA 和 KEDA 配置 Kubernetes 自动缩放。用于水平/垂直 Pod 自动缩放、事件驱动的缩放和容量管理。 |
 | K8s CAPI | [Clawdbot/k8s-capi](https://clawdhub.com/skills/k8s-capi) | 用于配置、扩展和升级 Kubernetes 集群的集群 API 生命周期管理。在管理集群基础架构或多集群操作时使用。 |
+| ClawdTalk | [team-telnyx/clawdtalk-client](https://github.com/team-telnyx/clawdtalk-client) | ClawdTalk 为 OpenClaw 提供电话和短信功能。从任何手机拨打您的 AI 代理，支持日历、Jira、网络搜索等深度工具集成。由 Telnyx 提供支持。 |
 | KallyAI | [Clawdbot/kallyai](https://clawdhub.com/skills/kallyai) | 通过 KallyAI API 拨打电话 - 一个人工智能电话助手，可以代表您给企业打电话。当用户想要预订餐厅、安排约会或通过电话询问商家时使用。 |
 | Kubernetes 管理 | [Clawdbot/kubernetes](https://clawdhub.com/skills/kubernetes) | 全面的 Kubernetes 和 OpenShift 集群管理技能，涵盖操作、故障排除、清单生成、安全性和 GitOps。在以下情况下使用此技能： (1) 集群操作：升级、备份、节点管理、扩展、监控设置 (2) 故障排除：pod故障、网络问题、存储问题、性能分析 (3) 创建清单：Deployments、StatefulSets、Services、Ingress、NetworkPolicies、RBAC (4) 安全：审计、Pod安全标准、RBAC、秘密管理、漏洞扫描 (5) GitOps：ArgoCD、Flux、Kustomize、Helm、CI/CD 管道、渐进式交付 (6) OpenShift 特定：SCC、路由、运算符、构建、ImageStreams (7) 多云：AKS、EKS、GKE、ARO、ROSA 运营 |
 | LinkedIn 收件箱管理 | [Clawdbot/linkedin-inbox](https://clawdhub.com/skills/linkedin-inbox) | LinkedIn 收件箱管理，包括计划扫描、根据用户沟通风格自动起草回复以及审批工作流程。在监控 LinkedIn 消息、起草回复、在下班时间管理收件箱或设置 LinkedIn 活动的早晨 ping 摘要时使用。 |
