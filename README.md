@@ -933,7 +933,7 @@
 | Brave Images | [Clawdbot/brave-images](https://clawdhub.com/skills/brave-images) | 使用 Brave Search API 搜索图像。当您需要查找任何主题的图像、图片、照片或视觉内容时使用。需要 BRAVE_API_KEY 环境变量。 |
 | 语音唤醒 TTS | [Clawdbot/clawdbot-skill-voice-wake-say](https://clawdhub.com/skills/clawdbot-skill-voice-wake-say) | 当用户输入指示语音唤醒/语音识别时（例如，以“用户通过<设备>上的语音识别进行交谈”开头的消息），在 macOS 上使用内置的“say”命令大声说出响应。 |
 | 着色页生成器 | [Clawdbot/coloring-page](https://clawdhub.com/skills/coloring-page) | 将上传的照片转换为可打印的黑白着色页。 |
-| Creative Toolkit (创意工具箱) | [jau123/creative-toolkit](https://clawdhub.com/skills/creative-toolkit) | 多提供商 AI 图像生成 MCP 服务器。统一接口连接 MeiGen 平台、OpenAI 兼容 API 和本地 ComfyUI，自动路由至最佳提供商。内置 1,300+ 精选提示库、风格感知提示增强（写实/动漫/插画）、参考图像风格迁移、ComfyUI 工作流管理。当用户需要生成图像、搜索创意灵感、增强提示或管理本地工作流时使用。 |
+| Creative Toolkit (创意工具箱) | [jau123/creative-toolkit](https://clawdhub.com/skills/creative-toolkit) | 让你的 AI 工具变身专业创意设计师，如同本地版 Lovart。内置 1,300+ 精选提示词库与专业设计方法论，精心设计 8 个专用工具，支持调用本地 ComfyUI 或外部 API 生图。 |
 | ElevenLabs | [Clawdbot/elevenlabs-skill](https://clawdhub.com/skills/elevenlabs-skill) | 通过 ElevenLabs API 进行文本转语音、音效、音乐生成、语音管理和配额检查。使用 ElevenLabs 生成音频或管理语音时使用。 |
 | GifHorse | [Clawdbot/gifhorse](https://clawdhub.com/skills/gifhorse) | 搜索视频对话并创建带有定时字幕的反应 GIF。非常适合从电影和电视节目中创建具有模因价值的剪辑。 |
 | GPT | [Clawdbot/gpt](https://clawdhub.com/skills/gpt) | OpenAI GPT 集成。通过 OpenAI API 完成聊天、生成图像、嵌入和微调。 |
