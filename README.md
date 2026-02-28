@@ -38,8 +38,7 @@
 
 ### 五、使用说明
 - [使用说明](#五-使用说明)
-
-![98a68037f4c54741a77591fe9a75c67d](https://github.com/user-attachments/assets/87aca4bc-3b40-4bec-af5f-f5b8ce20aaf1)
+![52f0b660dba50e6c6959fde4e9d6b9cf](https://github.com/user-attachments/assets/32ddbb0c-a5a3-4946-9dd2-a7c527f7d406)
 
 ---
 
@@ -352,6 +351,7 @@
 | Craft 笔记管理 | [Clawdbot/craft](https://clawdhub.com/skills/craft) | 通过 CLI 管理 Craft 笔记、文档和任务。当用户要求添加笔记、创建文档、管理任务、搜索 Craft 文档或处理日常笔记时使用。 Craft 是一款适用于 macOS/iOS 的笔记应用程序。 |
 | Dashlane 密码管理器 | [Clawdbot/dashlane](https://clawdhub.com/skills/dashlane) | 从 Dashlane 保险库访问密码、安全笔记、机密和 OTP 代码。 |
 | 深读 | [Clawdbot/deepread](https://clawdhub.com/skills/deepread) | OCR 永远不会无声地失败。具有智能质量审核标志的多通道文档处理 API。使用人工智能驱动的置信度评分从 PDF 中提取文本和结构化数据。免费套餐 - 2,000 页/月。 |
+| WiseOCR PDF 转 Markdown | [Clawdbot/wiseocr](https://clawdhub.com/skills/wiseocr) | 使用 WiseOCR API 将 PDF 转换为 Markdown，支持表格识别、多栏排版和医疗文档 OCR，适合批量把文档转成可编辑的 Markdown。 |
 | 深度维基 | [Clawdbot/deepwiki](https://clawdhub.com/skills/deepwiki) | 查询 DeepWiki MCP 服务器以获取 GitHub 存储库文档、wiki 结构和 AI 驱动的问题。 |
 | Discord 诊断工具 | [Clawdbot/discord-doctor](https://clawdhub.com/skills/discord-doctor) | 快速诊断和修复 Discord 机器人、网关、OAuth 令牌和旧配置问题。检查连接、令牌过期并清理旧的 Clawdis 工件。 |
 | Docker Compose 生成器 | [Clawdbot/docker-compose-gen](https://clawdhub.com/skills/docker-compose-gen) | 通过扫描您的项目生成 docker-compose.yml。在容器化现有应用程序时使用。 |
@@ -365,6 +365,7 @@
 | 埃克萨 | [Clawdbot/exa](https://clawdhub.com/skills/exa) | 通过 Exa AI API 进行神经网络搜索和代码上下文。需要 EXA_API_KEY。用于查找文档、代码示例、研究论文或公司信息。 |
 | exa-web-search-free | [Clawdbot/exa-web-search-free](https://clawdhub.com/skills/exa-web-search-free) | 通过Exa MCP进行免费的人工智能搜索。网络搜索新闻/信息，从GitHub/StackOverflow搜索文档/示例的代码，公司的商业情报研究。无需API密钥。 |
 | Excel 表格批处理 | [Clawdbot/excel](https://clawdhub.com/skills/excel) | 读取、写入、编辑 Excel 文件 (.xlsx) 并设置其格式。创建电子表格、操作数据、应用格式、管理工作表、合并单元格、查找/替换以及导出到 CSV/JSON/Markdown。用于任何 Excel 文件操作任务。 |
+| 钉钉 AI 表格（多维表） | [Clawdbot/dingtalk-ai-table](https://clawdhub.com/skills/dingtalk-ai-table) | 钉钉多维表 AI 操作技能，通过 mcporter CLI 连接钉钉 MCP server 执行表结构管理、字段操作及记录增删改查，适合构建库存、项目等表格自动化流程。 |
 | Figma 设计分析助手 | [Clawdbot/figma](https://clawdhub.com/skills/figma) | 专业Figma设计分析和资产导出。用于提取设计数据、以多种格式导出资产、审核可访问性合规性、分析设计系统以及生成全面的设计文档。具有强大的导出和报告功能对 Figma 文件进行只读分析。 |
 | Firecrawl 网页抓取 | [Clawdbot/firecrawler](https://clawdhub.com/skills/firecrawler) | 使用 Firecrawl API 进行网页抓取和爬行。以降价形式获取网页内容、截取屏幕截图、提取结构化数据、搜索网络以及抓取文档站点。当用户需要抓取 URL、获取当前 Web 信息、捕获屏幕截图、从页面提取特定数据或抓取框架/库的文档时使用。 |
 | fliz-ai-视频生成器 | [Clawdbot/fliz-ai-video-generator](https://clawdhub.com/skills/fliz-ai-video-generator) | Fliz REST API 的完整集成指南 - 一个人工智能驱动的视频生成平台，可将文本内容转换为带有画外音、人工智能生成的图像和字幕的专业视频。  在以下情况下使用此技能： - 创建与 Fliz API 的集成（WordPress、Zapier、Make、n8n、自定义应用程序） - 通过 API 构建视频生成工作流程 - 实施用于视频完成通知的 webhook 处理程序 - 开发创建、管理或翻译视频的自动化工具 - 解决 Fliz API 错误或身份验证问题 - 了解视频处理步骤和状态轮询  主要功能：从文本/摘要创建视频、视频状态监控、翻译、复制、语音/音乐列表、webhook 通知。 |
@@ -963,6 +964,7 @@
 | VAP Media | [Clawdbot/vap-media](https://clawdhub.com/skills/vap-media) | AI 图像、视频和音乐生成。通量、Veo 3.1、Suno V5。 |
 | VAP 多媒体生成 | [Clawdbot/vap-multimedia-generation](https://clawdhub.com/skills/vap-multimedia-generation) | AI 图像、视频和音乐生成。通量、Veo 3.1、Suno V5。 |
 | Veo | [Clawdbot/veo](https://clawdhub.com/skills/veo) | 使用 Google Veo (Veo 3.1 / Veo 3.0) 生成视频。 |
+| 即梦 AI 视频生成器 | [Clawdbot/jimeng-video](https://clawdhub.com/skills/jimeng-video) | 即梦 AI 视频生成工具（含声音），通过火山引擎 API 自动生成带背景音乐和音效的高质量视频，支持文生视频和图生视频，适合短视频内容创作与批量生成。 |
 | Video Frames | [Clawdbot/video-frames](https://clawdhub.com/skills/video-frames) | 使用 ffmpeg 从视频中提取帧或短片。 |
 | Whispers from the Star | [Clawdbot/whispers-from-the-star](https://clawdhub.com/skills/whispers-from-the-star) | 笔画录 - 修仙文字冒险游戏。玩家从凡人开始修炼，经历炼气、筑基、金丹、元婴、化神、渡、飞升七大大关，通过选择修炼道心，最终成就修仙之路。支持转世传承、角色成长、物品系统。适用于修仙题材、角色扮演、文字冒险等场景。 |
 | Whispers from the Star CN | [Clawdbot/whispers-from-the-star-cn](https://clawdhub.com/skills/whispers-from-the-star-cn) | 星之低语 - 科幻生存冒险游戏。玩家扮演Stella Chen，一名玩家坠落击败致命星球的宿主，需要在盖亚星球上探索、生存、解谜，寻找回家之路。支持多场景探索、资源管理、外星生物互动。适用于科幻冒险、生存模拟、互动叙事等场景。 |
@@ -1353,6 +1355,10 @@
 | X Trends | [Clawdbot/x-trends](https://clawdhub.com/skills/x-trends) | 使用公共聚合器获取任何国家/地区 X (Twitter) 上当前最热门的主题。 |
 | X Trends | [Clawdbot/x-trends-dev](https://clawdhub.com/skills/x-trends-dev) | 使用公共聚合器获取任何国家/地区 X (Twitter) 上当前最热门的主题。 |
 | 小红书技能 | [Clawdbot/xiaohongshu](https://clawdhub.com/skills/xiaohongshu) | （无） |
+| 飞书群聊助手 | [Clawdbot/feishu-chat](https://clawdhub.com/skills/feishu-chat) | 通过 OpenClaw 集成在飞书群聊中发送消息、使用 Markdown 格式、@ 成员并管理群成员，提供完整的飞书群聊操作指引。 |
+| 微信桌面端 MCP 集成 | [Clawdbot/wechat-mcp](https://clawdhub.com/skills/wechat-mcp) | Windows 电脑端微信消息监控与发送的 MCP 技能，支持截图、搜索并打开联系人、发送消息等，适合通过 Python/MCP 自动化微信对话。 |
+| 小红书自动发布器 | [Clawdbot/xiaohongshuskills](https://clawdhub.com/skills/xiaohongshuskills) | 将图文或视频内容自动发布到小红书（XHS），支持发布图文、发布视频或仅启动测试浏览器，并提供搜索、详情、评论、@ 通知和内容数据指标等能力。 |
+| 小红书全能助手 - RedNote | [Clawdbot/xhs](https://clawdhub.com/skills/xhs) | 小红书全能助手，覆盖文案生成、标题和封面设计、内容发布与管理，可一站式完成写稿、生成封面、发布笔记及后续互动，支持多种 AI 封面生图服务与灵活登录方式。 |
 
 ### 💰 金融与交易
 | 技能名称 | 官方链接 | 核心功能 |
@@ -1361,6 +1367,7 @@
 | LNbits 闪电钱包管理 | [Clawdbot/lnbits](https://clawdhub.com/skills/lnbits) | 管理LNbits闪电钱包（余额、付款、发票） |
 | Solana 技能 | [Clawdbot/solana-skills](https://clawdhub.com/skills/solana-skills) | Solana 钱包操作 - 创建钱包、检查余额、发送 SOL/代币、通过 Jupiter 交换、在 Pump.fun 上启动代币 |
 | Solana Swaps | [Clawdbot/solana-swaps](https://clawdhub.com/skills/solana-swaps) | 通过 Jupiter 聚合器在 Solana 上交换代币并检查钱包余额。当用户想要交换代币、检查 SOL/代币余额或获取交换报价时使用。 |
+| 港股 IPO 打新研究助手 | [Clawdbot/hk-ipo-research-assistant](https://clawdhub.com/skills/hk-ipo-research-assistant) | 港股 IPO 打新研究助手，抓取实时数据（孖展、基石、评级、暗盘、中签率）并用 AI 分析判断，支持一键综合分析、单股分项查询、基金及券商排行、历史数据对比和中签率预测。 |
 | Transak | [Clawdbot/transak](https://clawdhub.com/skills/transak) | Transak 为 Web3 提供法币到加密货币的入口。通过 170 多个国家/地区的 100 多种支付方式买卖加密货币。 |
 
 ### 🏃 健康与生活
@@ -1397,6 +1404,7 @@
 | 摄像头快照 | [Clawdbot/camsnap](https://clawdhub.com/skills/camsnap) | 从 RTSP/ONVIF 摄像机捕获帧或剪辑。 |
 | Canvas LMS 学习管理 | [Clawdbot/canvas-lms](https://clawdhub.com/skills/canvas-lms) | 访问 Canvas LMS（Instruction）以获取课程数据、作业、成绩和提交内容。在检查截止日期、查看成绩、列出课程或从 Canvas 获取课程材料时使用。 |
 | Clawdbot 发布检查 | [Clawdbot/clawdbot-release-check](https://clawdhub.com/skills/clawdbot-release-check) | 检查新的crawdbot 版本并在每个新版本时通知一次。 |
+| OpenClaw Agent 创建向导 | [Clawdbot/create-openclaw-agent](https://clawdhub.com/skills/create-openclaw-agent) | 一键创建完整配置的 OpenClaw agent，包括身份定义、团队集成、模型与通信渠道设置，支持交互式和命令行两种配置模式。 |
 | 编码代理用户规则 | [Clawdbot/coding-agent-user-rules](https://clawdhub.com/skills/coding-agent-user-rules) | 错误发布，不知道如何取消发布;( |
 | ComfyUI 运行器 | [Clawdbot/comfyui-runner](https://clawdhub.com/skills/comfyui-runner) | ComfyUI 实例的启动/停止/状态。 |
 | CORS 配置生成器 | [Clawdbot/cors-config-gen](https://clawdhub.com/skills/cors-config-gen) | 为您的堆栈生成 CORS 配置。当跨源请求被阻止时使用。 |
