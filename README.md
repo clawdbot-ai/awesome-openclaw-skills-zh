@@ -1261,6 +1261,9 @@
 ## 四、其他 🧩
 
 ### 🤖 AI与搜索
+| GitHub 趋势分析智能体 | [ClawForge/github-trending-analyzer](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer) | 抓取、分类并总结 GitHub 日榜、周榜、月榜趋势。自动识别 AI Agent、RAG、安全等领域的爆发点，生成带超链接的深度分类报告。 |
+- [GitHub 趋势分析智能体](#github-trending-analyzer)
+- [GitHub 趋势分析智能体](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer)
 | 技能名称 | 官方链接 | 核心功能 |
 |-----------|------------|----------------------|
 | 1inch DEX 聚合器 | [Clawdbot/1inch](https://clawdhub.com/skills/1inch) | 1英寸DEX聚合器。在 12 多个区块链上的 400 多个流动性来源中找到最佳掉期利率。 |
