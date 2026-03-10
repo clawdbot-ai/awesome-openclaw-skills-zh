@@ -1207,6 +1207,7 @@
 | Healthy Eating | [Clawdbot/healthy-eating](https://clawdhub.com/skills/healthy-eating) | 通过膳食记录、营养跟踪和食物选择建立健康的饮食习惯 |
 | Huckleberry | [Clawdbot/huckleberry](https://clawdhub.com/skills/huckleberry) | 通过 Huckleberry CLI 跟踪婴儿睡眠、喂养、尿布和生长情况。当用户询问记录婴儿活动、开始/停止睡眠、奶瓶喂养、换尿布或生长测量时使用。 |
 | Logger 生成器 | [Clawdbot/logger-gen](https://clawdhub.com/skills/logger-gen) | 为任何框架设置结构化日志记录。配置日志记录时使用。 |
+| Opik OpenClaw 追踪插件 | [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw) | OpenClaw 的 Opik 可观测性插件。支持 LLM/工具/子智能体 span 追踪、错误排查、token 和成本监控。 |
 | Self Love Confidence | [Clawdbot/self-love-confidence](https://clawdhub.com/skills/self-love-confidence) | 通过肯定、胜利记录和内部批评管理来建立自爱和自信 |
 | ServiceNow Agent | [Clawdbot/servicenow-agent](https://clawdhub.com/skills/servicenow-agent) | 对 ServiceNow 表、附件、聚合和服务目录 API 的只读 CLI 访问；包括模式检查和历史检索（只读）。 |
 | Stress Relief | [Clawdbot/stress-relief](https://clawdhub.com/skills/stress-relief) | 通过快速技巧、压力记录和恢复工具来管理压力 |
