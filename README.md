@@ -1484,3 +1484,7 @@
 # 从 OpenClaw 官方库安装技能
 openclaw skill install https://clawdhub.com/skills/[技能]
 ```
+
+### 晴晴终极套件
+- [wd041216-bit/openclaw-ultimate-suite](https://github.com/wd041216-bit/openclaw-ultimate-suite) - OpenClaw 终极技能整合套件 - 29 个技能一站式整合 × 61 个专业 Agent × 安全内置 × 自动激活 × 飞书集成
+
