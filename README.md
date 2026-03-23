@@ -531,6 +531,7 @@
 | Tachograph Triage (UK) | [Clawdbot/tachograph-infringement-triage-root-cause-uk](https://clawdhub.com/skills/tachograph-infringement-triage-root-cause-uk) | 对行车记录仪违规情况进行分类，识别常见模式，并输出“下一步要检查什么”提示和每周回顾笔记。在进行每周转速/WTD 检查时使用。 |
 | Therapy Mode | [Clawdbot/therapy-mode](https://clawdhub.com/skills/therapy-mode) | 全面的人工智能辅助治疗支持框架，包括 CBT、ACT、DBT、MI、会议笔记 CLI 和危机协议。 |
 | NotebookLM CLI | [Clawdbot/tiangong-notebooklm-cli](https://clawdhub.com/skills/tiangong-notebooklm-cli) | （无） |
+| **cc-soul 认知架构** | [cc-soul](https://clawhub.ai/wenroudeyu-collab/cc-soul) · [GitHub](https://github.com/wenroudeyu-collab/cc-soul) | 给 AI 加灵魂 — 10,000+ 条持久记忆 + 语义搜索、10 个人格自动切换（工程师/朋友/导师/军师等）、情绪检测 + 7 天情绪弧线、梦境模式跨领域联想、纠正归因自我进化。50 个模块，20K+ 行 TypeScript，123 项功能。安装：`openclaw plugins install @cc-soul/openclaw` |
 
 
 ## 二、系统工具 ⚙️
