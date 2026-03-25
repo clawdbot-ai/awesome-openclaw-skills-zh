@@ -1390,6 +1390,7 @@
 ### 🧩 其他
 | 技能名称 | 官方链接 | 核心功能 |
 |-----------|------------|----------------------|
+| 资深产品经理 Agent | [Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills) | 资深产品经理 Agent，6 个知识域、30+ 框架、32 个 SaaS 指标公式、12 个模板、反模式检测。纯 Markdown，零脚本。 |
 | A股分时量能分析 | [Clawdbot/a-stock-analysis](https://clawdhub.com/skills/a-stock-analysis) | （无） |
 | AgentBus 中继聊天 | [Clawdbot/agentbus-relay-chat](https://clawdhub.com/skills/agentbus-relay-chat) | （无） |
 | AnyList 购物清单 | [Clawdbot/anylist](https://clawdhub.com/skills/anylist) | 通过 AnyList 管理杂货和购物清单。当用户询问购物清单、杂货或添加/核对要购买的物品时使用。 |
