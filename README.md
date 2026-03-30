@@ -1049,6 +1049,7 @@
 | Literature Review | [Clawdbot/literature-review](https://clawdhub.com/skills/literature-review) | 通过 Semantic Sc​​holar、OpenAlex、Crossref 和 PubMed API 搜索学术资源，协助撰写文献综述。当用户需要查找某个主题的论文、获取特定 DOI 的详细信息或起草带有适当引用的文献综述部分时使用。 |
 | Manus AI Agent | [Clawdbot/manus](https://clawdhub.com/skills/manus) | 通过 Manus API 创建和管理 AI 代理任务。 Manus 是一个自主人工智能代理，可以浏览网络、使用工具并交付完整的工作产品。 |
 | Marketing Mode | [Clawdbot/marketing-mode](https://clawdhub.com/skills/marketing-mode) | 营销模式结合了23种全面的营销技巧，涵盖策略、心理、内容、SEO、转化优化和付费增长。当用户需要营销策略、文案、SEO 帮助、转化优化、付费广告或任何营销策略时使用。 |
+| 超级营销专家 | [wd041216-bit/super-marketing-pro](https://github.com/wd041216-bit/super-marketing-pro) | 全栈 B2B 营销执行技能，相当于10人规模的营销团队。包含 ICP 构建、多平台内容矩阵生成（1篇长文→LinkedIn/X/抖音/小红书）、冷邮件序列、SEO 主题集群策略、竞品战斗卡和月度/季度营销报告。支持中文平台（抖音、小红书、微信）和西方平台（LinkedIn、YouTube、Instagram、X）。 |
 | Git 合并冲突解决 | [Clawdbot/merge-resolver](https://clawdhub.com/skills/merge-resolver) | 使用 AI 智能解决 git 合并冲突。当用户有合并冲突需要帮助解决时使用。 |
 | Middleware 生成器 | [Clawdbot/middleware-gen](https://clawdhub.com/skills/middleware-gen) | 从简单的英语生成 Express 中间件。构建 API 中间件时使用。 |
 | 正念冥想 | [Clawdbot/mindfulness-meditation](https://clawdhub.com/skills/mindfulness-meditation) | 通过指导课程、连续练习和正念提醒来建立冥想练习 |
