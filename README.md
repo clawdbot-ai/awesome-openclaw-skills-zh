@@ -1335,6 +1335,7 @@
 |-----------|------------|----------------------|
 | A/B 测试设置 | [Clawdbot/ab-test-setup](https://clawdhub.com/skills/ab-test-setup) | 当用户想要计划、设计或实施 A/B 测试或实验时。当用户提及“A/B 测试”、“分割测试”、“实验”、“测试此更改”、“变体副本”、“多变量测试”或“假设”时也可使用。有关跟踪实施情况，请参阅分析跟踪。 |
 | 上下文恢复 | [Clawdbot/context-recovery](https://clawdhub.com/skills/context-recovery) | （无） |
+| ME News AI与加密资讯 | [Clawdbot/menews](https://clawhub.ai/jamesmenews/menews) | AI 驱动的加密货币和市场新闻情报平台。提供实时加密快讯、市场热门话题聚合、X 平台趋势分析、Polymarket 预测市场数据、热门代币追踪。支持中英双语（EN/ZH）。当用户询问加密新闻、X 平台加密趋势、市场热点或代币动态时使用。 |
 | Newsletter 摘要 | [Clawdbot/newsletter-digest](https://clawdhub.com/skills/newsletter-digest) | 总结时事通讯和文章，提取关键见解，创建阅读列表 |
 | Nix Mode | [Clawdbot/nix-mode](https://clawdhub.com/skills/nix-mode) | 在 Nix 模式下处理 Clawdbot 操作（配置管理、环境检测）。 |
 | Odos DEX 聚合器 | [Clawdbot/odos](https://clawdhub.com/skills/odos) | Odos 智能订单路由 DEX 聚合器。利用专利 SOR 算法在 500 多个流动性来源中提供最佳掉期利率。 |
