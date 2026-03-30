@@ -910,6 +910,7 @@
 | NPM 审计修复器 | [Clawdbot/audit-fix](https://clawdhub.com/skills/audit-fix) | 使用 AI 分析 npm 审计输出并获取可行的修复建议。在处理安全漏洞时使用。 |
 | NPM 审计修复器 | [Clawdbot/audit-fixer](https://clawdhub.com/skills/audit-fixer) | 使用 AI 分析 npm 审计输出并获取可行的修复建议。在处理安全漏洞时使用。 |
 | Auth Auditor | [Clawdbot/auth-auditor](https://clawdhub.com/skills/auth-auditor) | 审核您的身份验证实施是否存在安全缺陷。当您需要验证您的身份验证确实安全时使用。 |
+| ClawGuard 安全扫描 | [NeuZhou/clawguard-security](https://clawhub.ai/NeuZhou/clawguard-security) | AI Agent 免疫系统 — 285+ 威胁检测模式，提示注入检测（25+ 模式，多语言），PII 脱敏（100% 本地），意图-行为不一致检测，OWASP Agentic AI Top 10 全覆盖。[GitHub](https://github.com/NeuZhou/clawguard) |
 | Solana 开发导师 | [Clawdbot/cabin-sol](https://clawdhub.com/skills/cabin-sol) | Solana 开发导师和构建者。通过挑战、Anchor 框架、Token-2022、压缩 NFT 和安全最佳实践来教授程序开发。 “回归原始计算。” |
 | ClawdLink 加密消息 | [Clawdbot/clawdlink](https://clawdhub.com/skills/clawdlink) | 加密的 Clawdbot 到 Clawdbot 消息传递。通过端到端加密向朋友的 Clawdbot 发送消息。 |
 | CSP 生成器 | [Clawdbot/csp-gen](https://clawdhub.com/skills/csp-gen) | 为您的站点生成内容安全策略标头。当您需要添加 CSP 标头而无需花费数小时阅读规范时使用。 |
