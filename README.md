@@ -1,4 +1,5 @@
 # Awesome OpenClaw Skills (中文官方库)
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 > 翻译自 [Clawdbot 官方技能库](https://clawdhub.com/skills)，持续同步更新。
 > 所有技能已适配中文指令，可直接在 OpenClaw 中调用（支持 QQ/企业微信/飞书/钉钉/本地客户端）。
 
