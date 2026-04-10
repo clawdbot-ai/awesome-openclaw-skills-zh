@@ -436,6 +436,7 @@
 | 会议记录转学习材料 | [Clawdbot/transcript-to-content](https://clawdhub.com/skills/transcript-to-content) | 此技能将培训和入职会议记录转化为结构化学习材料、文档和可操作的审核内容。在处理入职会议、培训会议或知识转移对话的会议记录时，可以使用此技能来提取关键信息并生成学习指南、快速参考表、清单、常见问题解答文档、行动项目列表和培训效果评估。 |
 | 运输调查工具包（ACAS 对齐） | [Clawdbot/transport-investigation-acas-aligned-pack](https://clawdhub.com/skills/transport-investigation-acas-aligned-pack) | 生成符合 ACAS 的调查邀请措辞、中性问题集和证据日志。在开始驾驶员事故调查/访谈时使用。 |
 | Twitter 搜索分析 | [Clawdbot/twitter-search-skill](https://clawdhub.com/skills/twitter-search-skill) | 高级 Twitter 搜索和社交媒体数据分析。使用 Twitter API 按关键字获取推文，处理多达 1000 个结果，并生成包含见解和可行建议的专业数据分析报告。当用户请求 Twitter/X 社交媒体搜索、社交媒体趋势分析、推文数据挖掘、社交聆听、影响者识别、推文主题情绪分析或任何涉及收集和分析 Twitter 数据以获得见解的任务时使用。 |
+| Xquik X/Twitter 数据平台 | [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) 全功能数据平台技能。122 个 REST API 端点、2 个 MCP 工具、23 种提取类型。搜索推文、查看用户、发帖、点赞、转发、关注、私信、监控账号、运行抽奖。每次读取仅 $0.00015，比官方 X API 便宜 33 倍。只需一个 API Key（XQUIK_API_KEY），无需 OAuth 配置。 |
 | 社交媒体内容上传 | [Clawdbot/upload-post](https://clawdhub.com/skills/upload-post) | 通过 Upload-Post API 将内容上传到社交媒体平台。在将视频、照片、文本或文档发布到 TikTok、Instagram、YouTube、LinkedIn、Facebook、X (Twitter)、Threads、Pinterest、Reddit 或 Bluesky 时使用。支持调度、分析、FFmpeg 处理和上传历史记录。 |
 | Vercel 部署平台 | [Clawdbot/vercel](https://clawdhub.com/skills/vercel) | 使用完整的 CLI 参考来部署应用程序并管理项目。用于部署、项目、域、环境变量和实时文档访问的命令。 |
 | 语音转录工具 | [Clawdbot/voice-transcribe](https://clawdhub.com/skills/voice-transcribe) | 使用 OpenAI 的 gpt-4o-mini-transcribe 模型转录音频文件，并提供词汇提示和文本替换。需要 uv (https://docs.astral.sh/uv/)。 |
